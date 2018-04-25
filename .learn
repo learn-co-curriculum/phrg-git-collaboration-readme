@@ -5,3 +5,5 @@ languages:
   - ruby
 resources:
   - none
+
+parent_template: git@github.com:learn-co-curriculum/git-collaboration-readme.git

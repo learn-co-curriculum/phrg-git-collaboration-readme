@@ -372,3 +372,4 @@ _Do not do as stick man suggests!_
 <p class='util--hide'>View <a href='https://learn.co/lessons/git-collaboration-readme'>Git Collaboration</a> on Learn.co and start learning to code for free.</p>
 
 [vi]: https://www.youtube.com/watch?v=_NUO4JEtkDw
+<p data-visibility='hidden'>PHRG Git Collaboration</p>
