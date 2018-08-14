@@ -369,6 +369,10 @@ Git is complex, and collaborating with people in this manner is just hard - ther
 
 _Do not do as stick man suggests!_
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-git-collaboration-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-git-collaboration-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/git-collaboration-readme'>Git Collaboration</a> on Learn.co and start learning to code for free.</p>
 
 [vi]: https://www.youtube.com/watch?v=_NUO4JEtkDw
